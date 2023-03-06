@@ -1,0 +1,86 @@
+{
+  "contractName": "CharityDonation",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/CharityDonation.sol\":\"CharityDonation\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/CharityDonation.sol\":{\"keccak256\":\"0xf211183679d89491ce2055352dc274bc4c5e8a2da6a6ff923228cd4aeb866165\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://1509bd7935bf7dd785e43a88f2f864b408025f5cbc621f1da096c21ea0a243cb\",\"dweb:/ipfs/QmZWnwCfrkY6tKzmyxe3MQyQNsSeazi91zDGZej7WLsavD\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220b454b803dca6ca2e4ab3761083a34b4309eea743cecd4fd7e075e877cd51741664736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220b454b803dca6ca2e4ab3761083a34b4309eea743cecd4fd7e075e877cd51741664736f6c63430008110033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "70:33:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "70:33:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.4.22 <0.9.0;\r\n \r\ncontract CharityDonation {\r\n  \r\n}\r\n",
+  "sourcePath": "C:\\Users\\Almog Yosef Zamir\\Desktop\\טכנולוגיות אינטרנט מתקדמות\\Codes Folder\\donations\\contracts\\CharityDonation.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/CharityDonation.sol",
+    "exportedSymbols": {
+      "CharityDonation": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:32:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "CharityDonation",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "CharityDonation",
+        "nameLocation": "79:15:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "70:33:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:72:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.17+commit.8df45f5f.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x347B88Ac5014f12c942FfBaf3Dd802727741a63B",
+      "transactionHash": "0x0a3fb53add3a3f2f45ea40fde32843349fa93c73e2118c94b148765938c172a5"
+    }
+  },
+  "schemaVersion": "3.4.11",
+  "updatedAt": "2023-03-06T13:51:57.447Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
